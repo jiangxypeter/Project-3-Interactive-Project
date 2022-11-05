@@ -54,3 +54,11 @@ Through improvements, we hope to give users a streamlined and efficient experien
 Further enhance the interactive experience of web pages by adding motion effects. A good operating experience can also improve user perception. "Excellent interactive experience" will also become one of the labels of the website.
 In subsequent iterations, in-depth optimization can be carried out for the dimensions of experience.Provide users with a better web browsing experience.
 
+### Reference：
+Atlassian Scrum - what it is, how it works, and why it's awesome, Atlassian. Available at: https://www.atlassian.com/agile/scrum (Accessed: November 3, 2022). 
+
+axosoft (2012) Intro to scrum in under 10 minutes, YouTube. YouTube. Available at: https://www.youtube.com/watch?v=XU0llRltyFM (Accessed: November 3, 2022). 
+
+Uzility (2014) Introduction to scrum - 7 minutes, YouTube. YouTube. Available at: https://www.youtube.com/watch?v=9TycLR0TqFA (Accessed: November 4, 2022). 
+
+Madarang, A. (2018) Element vue basics, YouTube. YouTube. Available at: https://www.youtube.com/watch?v=DwTPbtWkRHQ (Accessed: November 4, 2022). 
